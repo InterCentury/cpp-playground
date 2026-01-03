@@ -1,0 +1,80 @@
+[WARN] - (starship::config): Error in 'Character' at 'style': Unknown key
+
+Administrator in cpp-playground on  main 
+11:47:39 ❯ git add .
+Administrator in cpp-playground on  main [✔️ ] 
+11:49:05 ❯ git commit --date '2026-01-03' -m "Initial upload: https://github.com/InterCentury/cpp-playground/blob/main/cpp-roadmap/cpp%201%20of%201.png"
+[main b25326d] Initial upload: https://github.com/InterCentury/cpp-playground/blob/main/cpp-roadmap/cpp%201%20of%201.png
+ Date: Sat Jan 3 11:49:05 2026 +0600
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cpp-roadmap/cpp 1 of 1.png
+Administrator in cpp-playground on  main [⬆️ ] 
+11:49:05 ❯ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 1.09 MiB | 890.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/InterCentury/cpp-playground.git
+   3eb4342..b25326d  main -> main
+Administrator in cpp-playground on  main took 3s 
+11:49:11 ❯ git add .
+Administrator in cpp-playground on  main [✔️ ] 
+11:50:40 ❯ git commit --date '2026-01-03' -m "initial upload: https://github.com/InterCentury/cpp-playground/blob/main/cpp%20recap%202026/Docs/cpp%201%20of%201.png"
+[main 3d6effa] initial upload: https://github.com/InterCentury/cpp-playground/blob/main/cpp%20recap%202026/Docs/cpp%201%20of%201.png
+ Date: Sat Jan 3 11:50:41 2026 +0600
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cpp recap 2026/Docs/cpp 1 of 1.png
+Administrator in cpp-playground on  main [⬆️ ] 
+11:50:41 ❯ git push origin main
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 1.09 MiB | 890.00 KiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/InterCentury/cpp-playground.git
+   b25326d..3d6effa  main -> main
+Administrator in cpp-playground on  main took 3s 
+11:50:51 ❯ git add .
+Administrator in cpp-playground on  main [»] 
+11:52:17 ❯ git commit --date '2026-01-03' -m "refactor: change file name: https://github.com/InterCentury/cpp-playground/blob/main/cpp%20recap%202026/Docs/cpp-roadmap.png"
+[main 9906244] refactor: change file name: https://github.com/InterCentury/cpp-playground/blob/main/cpp%20recap%202026/Docs/cpp-roadmap.png
+ Date: Sat Jan 3 11:52:17 2026 +0600
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename cpp recap 2026/Docs/{cpp 1 of 1.png => cpp-roadmap.png} (100%)
+Administrator in cpp-playground on  main [⬆️ ] 
+11:52:17 ❯ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 504 bytes | 504.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/InterCentury/cpp-playground.git
+   3d6effa..9906244  main -> main
+Administrator in cpp-playground on  main took 2s 
+11:52:21 ❯ git add .
+Administrator in cpp-playground on  main [»] 
+11:53:04 ❯ git commit --date '2026-01-03' -m "refactor: change file name cpp-roadmap/cpp-roadmap.png"
+[main 6d7deab] refactor: change file name cpp-roadmap/cpp-roadmap.png
+ Date: Sat Jan 3 11:53:04 2026 +0600
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename cpp-roadmap/{cpp 1 of 1.png => cpp-roadmap.png} (100%)
+Administrator in cpp-playground on  main [⬆️ ]
+11:53:04 ❯ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 352 bytes | 352.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/InterCentury/cpp-playground.git
+   9906244..6d7deab  main -> main
+Administrator in cpp-playground on  main took 2s
+11:53:08 ❯
