@@ -189,9 +189,9 @@ int main() {
 │ using namespace std;                │  ← Namespace (shortcuts)
 ├─────────────────────────────────────┤
 │ int main() {                        │  ← Main (entry point)
-│     cout << "Hi";    ← Statement    │
-│     return 0;        ← Return       │
-│ }                                   │
+│     cout << "Hi";    ← Statement      │
+│     return 0;        ← Return         │
+│ }                                    │
 └─────────────────────────────────────┘
 ```
 
