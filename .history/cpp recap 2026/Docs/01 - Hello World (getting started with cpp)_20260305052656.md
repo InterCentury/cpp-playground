@@ -175,12 +175,12 @@ int main() {            // Main function
 ```
 
 ## Checklist
-- [✅] I can write Hello World program from memory
-- [✅] I understand what #include does
-- [✅] I know why we need main()
-- [✅] I can explain cout and << operator
-- [✅] I know difference between " " and ' '
-- [✅] I know why we need semicolon
-- [✅] I understand return 0
-- [✅] I can compile and run the program
-- [✅] I completed all practice exercises
+- [] I can write Hello World program from memory
+- [] I understand what #include does
+- [] I know why we need main()
+- [] I can explain cout and << operator
+- [] I know difference between " " and ' '
+- [] I know why we need semicolon
+- [] I understand return 0
+- [] I can compile and run the program
+- [] I completed all practice exercises
