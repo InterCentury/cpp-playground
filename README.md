@@ -7,7 +7,7 @@ A sandbox for C++ learning and experiments, including basic programs, OOP, point
 ## Original Work Notice
 
 **Author:** Maruf Hasan  
-**Administration:** BinaryOxide  
+**Administration:** github.com\InterCentury  
 
 This folder is part of my ongoing journey of learning and mastering C++. I started studying C++ to strengthen my problem-solving skills and prepare for future software development projects. Over time, I have consistently practiced writing small programs, experimenting with new concepts, and documenting everything in separate files.
 
