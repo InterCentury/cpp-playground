@@ -1,3 +1,5 @@
+![Alt text](https://github.com/InterCentury/cpp-playground/blob/main/img/banner-cpp-playground.jpg?raw=true)
+
 # cpp-playground
 
 A sandbox for C++ learning and experiments, including basic programs, OOP, pointers, file handling, DSA, pattern printing, and math problem-solving. Perfect for practice, experimentation, and building small C++ projects.
