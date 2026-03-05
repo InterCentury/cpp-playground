@@ -58,7 +58,7 @@ You are welcome to read, learn from, or take inspiration from this code. However
 - ❌ Do NOT claim this work as your personal learning journey  
 - ❌ Do NOT copy these files to present as your own creations  
 - ❌ Do NOT redistribute without proper credit  
-- ✔️ You **may use this project as a reference** for your own learning  
+- ✅ You **may use this project as a reference** for your own learning  
 
 All work in these folders is original and part of my personal C++ learning roadmap under BinaryOxide.  
 
