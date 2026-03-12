@@ -449,4 +449,3 @@ int main() {
 
 
 
- *This documentation belongs to https://github.com/InterCentury*
