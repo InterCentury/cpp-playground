@@ -102,4 +102,3 @@ int total = a + b;  // This multiplies (WRONG!)
 - Comments explain WHY, not WHAT
 - Keep comments short and updated
 
-*This documentation belongs to https://github.com/InterCentury*

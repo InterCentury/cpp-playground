@@ -347,4 +347,3 @@ Every C++ program needs:
 
 The structure is always the same, only the code inside `{ }` changes based on what you want the program to do.
 
-*This documentation belongs to https://github.com/InterCentury*
