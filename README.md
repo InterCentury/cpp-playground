@@ -60,6 +60,6 @@ You are welcome to read, learn from, or take inspiration from this code. However
 - ❌ Do NOT redistribute without proper credit  
 - ✅ You **may use this project as a reference** for your own learning  
 
-All work in these folders is original and part of my personal C++ learning roadmap under BinaryOxide.  
+All work in these folders is original and part of my personal C++ learning roadmap under https://github.com/InterCentury.  
 
 Thank you for respecting my effort.
