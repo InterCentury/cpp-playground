@@ -8,13 +8,13 @@ os.makedirs(base_path, exist_ok=True)
 
 # List of filenames
 files = [
-  # "110 - overloading binary operators.md",
-  # "111 - overloading unary operators.md",
-  # "112 - overloading assignment operator.md",
-  # "113 - overloading stream operators.md",
-  # "114 - overloading comparison operators.md",
-  # "115 - overloading subscript operator [].md",
-  # "116 - new and delete for objects.md"
+    "110 - overloading binary operators.md",
+    "111 - overloading unary operators.md",
+    "112 - overloading assignment operator.md",
+    "113 - overloading stream operators.md",
+    "114 - overloading comparison operators.md",
+    "115 - overloading subscript operator [].md",
+    "116 - new and delete for objects.md"
     "117 - new and delete for arrays.md",
   # "118 - shallow copy.md",
   # "119 - deep copy.md",
